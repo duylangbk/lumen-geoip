@@ -9,7 +9,7 @@ Determine the geographical location of website visitors based on their IP addres
 To install this package, just install through composer
 
 ```
-$ composer require codenexus/lumen-geoip
+$ composer require duylangbk/lumen-geoip
 ```
 
 ### Providers

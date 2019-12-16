@@ -1,7 +1,7 @@
 {
-    "name": "codenexus/lumen-geoip",
+    "name": "duylangbk/lumen-geoip",
     "description": "GeoIP for Lumen",
-    "keywords": ["php", "codenexus", "lumen", "geoip"],
+    "keywords": ["php", "duylangbk", "lumen", "geoip"],
     "license": "MIT",
     "authors": [
         {
